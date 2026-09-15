@@ -1,0 +1,5 @@
+Write a program that calculates how many hours and minutes remain until midnight,
+given the current time in hours and minutes.
+
+Напиши программу, которая подсчитывает, сколько часов и минут осталось до полуночи,
+если известно текущее время в часах и минутах.

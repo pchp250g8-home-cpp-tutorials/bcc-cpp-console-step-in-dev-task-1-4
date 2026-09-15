@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.09.15 15:58:56.493,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.09.15 15:58:56.497,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.09.15 15:59:49.213,D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\Task-1-4-enPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.09.15 15:59:49.223,D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.09.15 15:59:49.233,D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\Task-1-4-en.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.09.15 16:00:03.229,D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\Task-1-4-en.cpp=D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\File1.cpp</Transaction>
+    <Transaction>2026.09.15 16:00:06.953,D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\Task-1-4-en.cbproj=D:\Projects\Programming\CPP\BDS\Console\StepInDev\Task-1-4\Task-1-4-en\Task-1-4-en.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
